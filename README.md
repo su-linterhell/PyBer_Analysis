@@ -24,15 +24,11 @@ Using this bubble chart, we can see that there is a negative correlation between
 
 Through the PyBer Summary and Total Fare by City Type chart, we can see that charging higher per ride does not mean a city type will generate the most money. There are a few approaches that can be taken in order to increase popularity in Pyber Ride Share outside of just urban areas. 
 
-1. Increase drivers available: 
+1. Increase drivers available: Increasing the drivers can impact the riders in a few ways. Although this data is not provided, less drivers in an area can amount to a longer wait time for the rider. This is not ideal and may be a reason why less drivers in rural, or suburban area turn to PyBer. Additionally, more drivers can drive down the cost/ride, making PyBer more appealing to potential riders. 
 
-Increasing the drivers can impact the riders in a few ways. Although this data is not provided, less drivers in an area can amount to a longer wait time for the rider. This is not ideal and may be a reason why less drivers in rural, or suburban area turn to PyBer. Additionally, more drivers can drive down the cost/ride, making PyBer more appealing to potential riders. 
-2. Reduce the cost of rides in rural & suburban areas: 
+2. Reduce the cost of rides in rural & suburban areas: Another approach to increasing the number of rides within a city type, could be reducing the cost of rides in rural and suburban cities. Decreasing the cost may lead to an increase in count of rides. The more rides within a city, can lead to a growth in number of drivers. 
 
-Another approach to increasing the number of rides within a city type, could be reducing the cost of rides in rural and suburban cities. Decreasing the cost may lead to an increase in count of rides. The more rides within a city, can lead to a growth in number of drivers. 
-3. Begin diving into trends around wait & drive time:
-
-Another variable that could have an impact on why ride count is lower in rural & suburban areas could be trends around rider wait times & drive times. These are not metrics we are currently looking at. Rider wait time can either be related to the number of drivers available in their area, or the distance drivers typically have to travel between riders. This can provide more insight on areas that can be improved for rider cost and accessibility. 
+3. Begin diving into trends around wait & drive time:Another variable that could have an impact on why ride count is lower in rural & suburban areas could be trends around rider wait times & drive times. These are not metrics we are currently looking at. Rider wait time can either be related to the number of drivers available in their area, or the distance drivers typically have to travel between riders. This can provide more insight on areas that can be improved for rider cost and accessibility. 
 
 
 
