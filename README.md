@@ -24,7 +24,7 @@ Using this bubble chart, we can see that there is a negative correlation between
 
 Through the PyBer Summary and Total Fare by City Type chart, we can see that charging higher per ride does not mean a city type will generate the most money. There are a few approaches that can be taken in order to increase popularity in Pyber Ride Share outside of just urban areas. 
 
-1. Increase drivers available: Increasing the drivers can impact the riders in a few ways. Although this data is not provided, less drivers in an area can amount to a longer wait time for the rider. This is not ideal and may be a reason why less drivers in rural, or suburban area turn to PyBer. Additionally, more drivers can drive down the cost/ride, making PyBer more appealing to potential riders. 
+1. Increase the number of drivers available: Increasing the drivers can impact the riders in a few ways. Although this data is not provided, less drivers in an area can amount to a longer wait time for the rider. This is not ideal and may be a reason why less drivers in rural, or suburban area turn to PyBer. Additionally, more drivers can drive down the cost/ride, making PyBer more appealing to potential riders. 
 
 2. Reduce the cost of rides in rural & suburban areas: Another approach to increasing the number of rides within a city type, could be reducing the cost of rides in rural and suburban cities. Decreasing the cost may lead to an increase in count of rides. The more rides within a city, can lead to a growth in number of drivers. 
 
@@ -34,4 +34,3 @@ Through the PyBer Summary and Total Fare by City Type chart, we can see that cha
 
 
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
